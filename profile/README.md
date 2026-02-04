@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://optiq.io">Website</a> •
+  <a href="https://optiqio.com">Website</a> •
   <a href="https://github.com/optiq-io/qbrix">Qbrix</a> •
   <a href="https://github.com/optiq-io/qbrix/blob/main/CLAUDE.md">Documentation</a>
 </p>
