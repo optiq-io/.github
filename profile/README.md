@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/optiq-io/.github/main/profile/optiq-io-logo.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/optiq-io/.github/main/profile/optiq-io-logo.jpg">
-  <img alt="optiq.io" src="https://raw.githubusercontent.com/optiq-io/.github/main/profile/optiq-io-logo.jpg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/optiq-io/.github/main/profile/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/optiq-io/.github/main/profile/logo-dark.png">
+    <img alt="optiq.io" src="https://raw.githubusercontent.com/optiq-io/.github/main/profile/logo-dark.png" width="128">
+  </picture>
+</p>
 
 <br/>
 
@@ -12,8 +14,10 @@
 
 <p align="center">
   <a href="https://optiqio.com">Website</a> •
+  <a href="https://optiqio.com/products">Products</a> •
   <a href="https://github.com/optiq-io/qbrix">Qbrix</a> •
-  <a href="https://github.com/optiq-io/qbrix/blob/main/CLAUDE.md">Documentation</a>
+  <a href="https://github.com/optiq-io/qbrix/blob/main/CLAUDE.md">Documentation</a> •
+  <a href="https://optiqio.com/contact">Contact</a>
 </p>
 
 ---
